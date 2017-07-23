@@ -1,1 +1,1 @@
-# gtest1
+I am testing some cross platform stuff with git. Please ignore this project
