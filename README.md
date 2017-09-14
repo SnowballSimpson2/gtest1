@@ -1,1 +1,1 @@
-Running some git tests. Ignore this project.
+Running some git tests. Please ignore this project.
