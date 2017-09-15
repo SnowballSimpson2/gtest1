@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// swap integers
 void swap(int &a, int &b){
 	int t = b;
 	b = a;
