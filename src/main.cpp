@@ -14,8 +14,12 @@ void swap(int &a, int &b){
 	a = t;
 }
 
+int bigger(int a, int b){
+	return a>b?a:b;	
+}
+
 int main()
 {
-	cout << "hello world/n";
+	cout << swap(1,2);
 	return 0;
 }
