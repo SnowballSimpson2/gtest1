@@ -15,6 +15,6 @@ int bigger(int a, int b){
 
 int main()
 {
-	cout << "hello world/n";
+	cout << swap(1,2);
 	return 0;
 }
